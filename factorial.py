@@ -1,8 +1,7 @@
 #!/usr/bin/python3
 import sys
 
-number = 9
-rangeNumber = range(number)
+number = int(sys.argv[1])
 
 def factorial(nb):
     nbRange = range(nb)
