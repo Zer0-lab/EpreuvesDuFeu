@@ -2,9 +2,9 @@
 import sys
 
 wordList = list(open("fr.txt"))
-# words = str(sys.argv[1::])
-anagram = "arbre"
-word2 = ""
+anagram = str(sys.argv[1::])
+#anagram = "arbre"
+
 
 def removeSpace(list):
     newList =[]
