@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-import sys
 
 list1 = list(open("c1.txt"))
 list2 = list(open("c2.txt"))
