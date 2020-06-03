@@ -43,7 +43,6 @@ def match(list, oList, i , j):
 
 
 def posRectangle(list, oList):
-    start = 0
     i = 0
     while i < len(oList):
         j = 0
