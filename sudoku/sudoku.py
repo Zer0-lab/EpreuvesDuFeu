@@ -26,7 +26,6 @@ replaceToZero(sudoku)
 
 print('\n'.join(sudoku))
 
-
 def notInLine(k, list, i):
     for i in range(len(list)):
         if list[i][j] == k:
